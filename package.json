@@ -20,6 +20,7 @@
     "@stripe/stripe-js": "^4.4.0",
     "@uploadthing/react": "^6.8.0",
     "class-variance-authority": "^0.7.0",
+    "clerk": "^0.8.3",
     "clsx": "^2.1.1",
     "form": "^0.2.4",
     "lucide-react": "^0.439.0",
